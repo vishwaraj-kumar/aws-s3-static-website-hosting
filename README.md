@@ -101,3 +101,11 @@ In this project, I am setting up an Amazon S3 bucket to handle file operations a
 ## ✅ Conclusion:
 
 By following these steps, I successfully created an S3 bucket, configured a custom bucket policy to manage public access, enabled versioning, and hosted a static website. This project not only helped me understand how to use Amazon S3 for file storage and static website hosting but also provided valuable insights into access control management and the application of bucket policies for security and access control.
+
+---
+
+## ✍️ Author
+
+**Vishwaraj Kumar**  
+🔗 [GitHub Profile](https://github.com/vishwaraj-kumar)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/vishwaraj-kumar/)
