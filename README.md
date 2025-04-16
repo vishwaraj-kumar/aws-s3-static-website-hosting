@@ -14,6 +14,8 @@ In this project, I am setting up an Amazon S3 bucket to handle file operations a
 
 <p align="center">
 <img src="images/create-bucket.png" alt="Create S3 Bucket" width="70%">
+<br>
+  <em>Figure: S3 service dashboard</em>
 </p>
 
 - I created a new S3 bucket by selecting "Create bucket" and provided a unique bucket name. I kept the region as the default.
@@ -23,6 +25,8 @@ In this project, I am setting up an Amazon S3 bucket to handle file operations a
 
 <p align="center">
 <img src="images/create-bucket2.png" alt="Create S3 Bucket Result" width="70%">
+<br>
+  <em>Figure: Create bucket successfully</em>
 </p>
 
 ---
@@ -42,6 +46,8 @@ In this project, I am setting up an Amazon S3 bucket to handle file operations a
 
   <p align="center">
   <img src="images/aws-policy-generator.png" alt="Policy Generator" width="70%">
+  <br>
+  <em>Figure: AWS policy generator</em>
   </p>
 
   - I clicked "Add Statement" and then "Generate Policy."
@@ -49,6 +55,8 @@ In this project, I am setting up an Amazon S3 bucket to handle file operations a
 
 <p align="center">
 <img src="images/policy-generator.png" alt="Policy Generator" width="70%">
+<br>
+  <em>Figure: Edit bucket policy</em>
 </p>
 
 - After saving the policy, my bucket was publicly accessible, allowing anyone to access the fi les within.
@@ -62,6 +70,8 @@ In this project, I am setting up an Amazon S3 bucket to handle file operations a
 
 <p align="center">
 <img src="images/enable-versioning.png" alt="Enable Versioning" width="70%">
+<br>
+  <em>Figure: Enable bucket versioning</em>
 </p>
 
 ---
@@ -80,6 +90,8 @@ In this project, I am setting up an Amazon S3 bucket to handle file operations a
 
 <p align="center">
 <img src="images/objects.png" alt="Static Website Hosting objects" width="70%">
+<br>
+  <em>Figure: html files uploaded in S3 bucket</em>
 </p>
 
 - Once the upload was complete, my static website was accessible via the bucket's website endpoint URL, which AWS provided in the static website hosting section.
